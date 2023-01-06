@@ -18,5 +18,5 @@ Testing
 
 To test the contract, run the following command:
 
-Copy code
+
 npm run test
